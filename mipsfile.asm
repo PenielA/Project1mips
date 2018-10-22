@@ -9,3 +9,8 @@ main:
   syscall
   addi $a0, $a0, 2
   syscall
+  addi $a0, $a0, 6
+  syscall
+  addi $a0, $a0, -2
+  syscall
+  addi $a0, $a0, -2
