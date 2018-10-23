@@ -39,3 +39,8 @@ main:
   addi $a0, $a0, 48
   syscall
   addi $a0, $a0, 21
+  syscall
+  addi $a0, $a0, 9
+  syscall
+  addi $a0, $a0, -5
+  syscall
